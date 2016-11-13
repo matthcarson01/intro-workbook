@@ -21,7 +21,7 @@ main{
 
 /*About*/
 .introHero{
-  background: darkgray url('/img/backgroundImg.jpeg') no-repeat center center;
+  background: darkgray url('../img/backgroundImg.jpeg') no-repeat center center;
   background-blend-mode: multiply;
   background-size:cover;
   height:400px;
